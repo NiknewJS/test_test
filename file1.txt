@@ -1,6 +1,6 @@
 file1.txt
-text two
-
+//text one
+for branch
 good buy
 user1 change
 change user2 commit
