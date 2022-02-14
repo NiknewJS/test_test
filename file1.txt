@@ -2,8 +2,5 @@ file1.txt
 text one
 for branch
 good buy
-<<<<<<< HEAD
 user1 change
-=======
 user2
->>>>>>> 5c19513f8805152fbbbf7db7d3b0a8e29df4f407
