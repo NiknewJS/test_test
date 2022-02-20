@@ -1,7 +1,3 @@
 file1.txt
 //text one
 for branch
-good buy
-user1 change
-change user2 commit
-some change for branch addf
